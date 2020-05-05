@@ -749,6 +749,10 @@ h3.agile-tittle.two.gal {
     color: #fff;
     text-align: center;
 }
+h3.agile-tittle.two.gal2 {
+    color:rgb(15, 15, 15);
+    text-align: center;
+}
 .line-style.second {
     background: rgba(185, 183, 183, 0.5);
     bottom: 0;
